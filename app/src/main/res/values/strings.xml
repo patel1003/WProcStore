@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WPMStoreSide</string>
+    <string name="login">login</string>
+    <string name="selection">User</string>
+    <string name="selection1">Store</string>
+    <string name="register_contact">Registration</string>
+    <string name="registration">First Name</string>
+    <string name="registration2">Last Name</string>
+    <string name="user_store_one">Rules and Regulation</string>
+    <string name="user_store_one1">48 hours replacement time.</string>
+    <string name="user_store_one2">4 days replacement of order.</string>
+    <string name="user_store_one3">In 10 minutes the customer can cancel there order.</string>
+    <string name="user_store_one4">Replacement of the order if the medicine is different then it is been ordered.</string>
+    <string name="profile">Patel Mahek</string>
+    <string name="profile1">3215431654</string>
+    <string name="profile2">khushipatel123@gmail.com</string>
+    <string name="profile3">Date of Birth</string>
+    <string name="profile4">Gender</string>
+    <string name="profile5">My orders</string>
+    <string name="profile6">My addresses</string>
+    <string name="profile7">Need Help?</string>
+    <string name="profile8">Logout</string>
+    <string name="confirm">Registration</string>
+    <string name="login2">Log in</string>
+</resources>
